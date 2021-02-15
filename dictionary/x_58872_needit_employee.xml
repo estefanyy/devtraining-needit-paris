@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Employee" max_length="40" name="x_58872_needit_employee" sizeclass="0" type="collection">
+        <element label="Department" max_length="40" name="department" type="string"/>
+        <element label="Employee Number" max_length="40" name="employee_number" type="string"/>
+        <element label="First Name" max_length="40" name="first_name" type="string"/>
+        <element label="Job Title" max_length="40" name="job_title" type="string"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element label="Salary" max_length="40" name="salary" type="string"/>
+    </element>
+</database>
